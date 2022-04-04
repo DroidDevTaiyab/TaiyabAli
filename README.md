@@ -4,7 +4,7 @@
 📱 App Developer
 🕸️ Blogger
 
-I'm Taiyab Ali a seasoned Android App Developer, passionate about developing exceptional apps that provide a pixel-perfect user interface with google material design. Sometimes you will find me on my website techpass master, sharing my learning & experience as a blog. Feel free to check it out @https://techpassmaster.com/!
+I'm Taiyab Ali a seasoned Android App Developer, passionate about developing exceptional apps that provide a pixel-perfect user interface with google material design. Sometimes you will find me on my website techpass master, sharing my learning & experience as a blog. 
 
 ## Can I use your code for my own projects? 💻
 
